@@ -1,0 +1,361 @@
+local Player = game.Players.LocalPlayer
+
+Player.Chatted:Connect(function(cht)
+
+    if cht:match("/eff") then
+
+     		wait(1)
+
+local args = {
+
+    [1] = ";morph me d"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";morph me noob1"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";char"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 150381051"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 187998056"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 1744060292"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 215718515"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 192557913"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 183468963"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 141742418"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 132809431"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 1474657"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 233705354"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 89171071"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 173624651"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 173624749"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 173624602"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 173624697"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = "hat me 173624561"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 128217885"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 226189871"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 311450131"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 169444515"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 24112667"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 33070696"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 262669756"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";hat me 233253311"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";glass"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(1)
+
+local args = {
+
+    [1] = ";color me orange"
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+  end
+
+end)
+
+local Player = game.Players.LocalPlayer
+
+Player.Chatted:Connect(function(cht)
+
+    if cht:match("/r6") then
+
+wait(0.2)
+
+local args = {
+
+    [1] = ";morph me DonaldTrump "
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+
+    [1] = ";char "
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(0.2)
+
+local args = {
+
+    [1] = ";morph me noob1 "
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+wait(0.3)
+
+local args = {
+
+    [1] = ";unchar "
+
+}
+
+game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:InvokeServer(unpack(args))
+
+  end
+
+end)
+
+local Player = game.Players.LocalPlayer
+
+Player.Chatted:Connect(function(cht)
+
+    if cht:match("/antibang") then
+
+local a=Instance.new("ScreenGui")local b=Instance.new("Frame")local c=Instance.new("TextLabel")local d=Instance.new("TextButton")local e=Instance.new("TextButton")local f=Instance.new("TextButton")function antibang()while _G.antibang==true do game.Players:Chat(".antibang")wait(1)end end;a.Parent=game.Players.LocalPlayer:WaitForChild("PlayerGui")a.ResetOnSpawn=false;b.Parent=a;b.BackgroundColor3=Color3.fromRGB(83,83,83)b.Position=UDim2.new(0.0661887601,0,0.293827176,0)b.Size=UDim2.new(0,100,0,100)b.Active=true;b.Draggable=true;c.Parent=b;c.BackgroundColor3=Color3.fromRGB(255,85,0)c.Position=UDim2.new(-0.00410109013,0,-0.00617286563,0)c.Size=UDim2.new(0,100,0,19)c.Font=Enum.Font.SourceSans;c.Text="antibang"c.TextColor3=Color3.fromRGB(0,0,0)c.TextScaled=true;c.TextSize=14.000;c.TextWrapped=true;d.Parent=b;d.BackgroundColor3=Color3.fromRGB(85,85,0)d.Position=UDim2.new(0,0,0.269999981,0)d.Size=UDim2.new(0,100,0,20)d.Font=Enum.Font.SourceSans;d.Text="click on me first"d.TextColor3=Color3.fromRGB(0,0,0)d.TextScaled=true;d.TextSize=14.000;d.TextWrapped=true;d.MouseButton1Down:connect(function()loadstring(game:HttpGet('https://raw.githubusercontent.com/BloodyBurns/Hexx/main/Iv%20Admin/Admin%202.lua'))()end)e.Parent=b;e.BackgroundColor3=Color3.fromRGB(85,85,0)e.Position=UDim2.new(0,0,0.539999962,0)e.Size=UDim2.new(0,100,0,20)e.Font=Enum.Font.SourceSans;e.Text="antibang"e.TextColor3=Color3.fromRGB(0,0,0)e.TextScaled=true;e.TextSize=14.000;e.TextWrapped=true;e.MouseButton1Down:connect(function()_G.antibang=true;antibang()end)f.Parent=b;f.BackgroundColor3=Color3.fromRGB(85,85,0)f.Position=UDim2.new(0,0,0.800000012,0)f.Size=UDim2.new(0,100,0,20)f.Font=Enum.Font.SourceSans;f.Text="stop antibang"f.TextColor3=Color3.fromRGB(0,0,0)f.TextScaled=true;f.TextSize=14.000;f.TextWrapped=true;f.MouseButton1Down:connect(function()_G.antibang=false end)
+
+  end
+
+end)
